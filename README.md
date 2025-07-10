@@ -31,6 +31,7 @@ todo-list/
 ├── script.js # JavaScript logic
 └── README.md # Project documentation
 
+![Screenshot (203)](https://github.com/user-attachments/assets/f37157cf-33fc-4ce0-bd6a-8a8919ceec46)
 
 ---
 
